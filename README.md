@@ -4,14 +4,10 @@ Estructura para un repositorio de acciones:
 
 org-actions-repo/
 
-│── setup-node/         # Custom GitHub Action for Node.js setup
-
+│── setup-node/         # Custom GitHub Action for Node.js setup \n
 │   ├── action.yml
-
 │   ├── Dockerfile
-
 │   ├── README.md
-
 
 │── security-scan/      # Custom GitHub Action for security scanning
 │   ├── action.yml
